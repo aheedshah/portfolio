@@ -12,11 +12,14 @@ const Home = () => {
             <div className="max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-4 md:flex-row">
                 <div className="flex flex-col justify-center h-full">
                     <h2 className="text-4xl sm:text-7xl font-bold text-white">
-                        I'm currently a student and an aspiring Full Stack Developer
+                        I'm a student and a Full Stack Developer
                     </h2>
                     <p className="text-gray-500 py-4 max-w-md">
-                        I have many years of experience building and designing websites.
-                        I love to work to create new web applications using different technologies.
+                        I have a year of experience in the industry as a Software Engineer. I've worked
+                        with companies such as Intuit and made many projects from scratch.
+
+                        I'm constantly looking for new challenges and love to explore new coding languages. Make sure
+                        to drop me a line if you're looking for someone to work on a new project or something amazing!
                     </p>
 
                     <div>

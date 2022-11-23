@@ -1,5 +1,6 @@
 {
   "name": "one-portfolio",
+  "homepage": "http://www.aheedshah.com",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

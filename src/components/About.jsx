@@ -14,23 +14,18 @@ const About = () => {
                 </div>
 
                 <p className="text-xl mt-20">
-                    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eius,
-                    deserunt illum mollitia officiis qui exercitationem perferendis neque
-                    quasi a recusandae necessitatibus tempora iusto! Blanditiis error
-                    iste, totam fugiat recusandae rerum laborum perferendis molestiae
-                    aperiam asperiores nemo. Magni dolor maxime debitis vitae, eaque hic
-                    ab mollitia voluptatibus, a nostrum eveniet laborum!
+                    I am a third-year student of Computer Science and I'm currently studying
+                    Computer Science at University of London, Goldsmiths. I am proficient in many languages which
+                    are written in the experience section and  with source control. I am familiar with different testing
+                    libraries like JUnit, React Testing Library, Mocha or Jest.
                 </p>
 
                 <br />
 
                 <p className="text-xl">
-                    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laborum
-                    pariatur, vel similique sint, nobis aspernatur ut praesentium
-                    explicabo ipsam aliquid quasi laboriosam et culpa possimus repudiandae
-                    quisquam ullam maiores ab unde. Fugiat odio mollitia nemo alias.
-                    Commodi facilis atque nulla vero voluptatem explicabo. Quibusdam,
-                    magni quo! Eum cupiditate debitis labore.
+                    I'm looking to further my career as a Software Engineer and keep on learning more about this field.
+                    I'm always looking to work on new projects with developers so if you have an idea and are looking for
+                    an extra pair of hands, don't hesitate to reach out!
                 </p>
             </div>
         </div>
