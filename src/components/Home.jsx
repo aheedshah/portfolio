@@ -15,11 +15,15 @@ const Home = () => {
                         I'm a student and a Full Stack Developer
                     </h2>
                     <p className="text-gray-500 py-4 max-w-md">
-                        I have a year of experience in the industry as a Software Engineer. I've worked
-                        with companies such as Intuit and made many projects from scratch.
 
-                        I'm constantly looking for new challenges and love to explore new coding languages. Make sure
-                        to drop me a line if you're looking for someone to work on a new project or something amazing!
+                        I am a third-year student of Computer Science, and I'm currently studying Computer Science at
+                        the University of London, Goldsmiths. I am proficient in many languages written in the
+                        experience section and with source control. I am familiar with testing libraries like JUnit,
+                        React Testing Library, Mocha or Jest.
+
+                        I'm looking to further my software engineering career and keep learning more about this field.
+                        I'm always looking to work on new projects with developers, so if you have an idea and are
+                        looking for an extra pair of hands, don't hesitate to reach out!
                     </p>
 
                     <div>
