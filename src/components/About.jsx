@@ -14,10 +14,10 @@ const About = () => {
                 </div>
 
                 <p className="text-xl mt-20">
-                    I am a third-year student of Computer Science and I'm currently studying
-                    Computer Science at University of London, Goldsmiths. I am proficient in many languages which
-                    are written in the experience section and  with source control. I am familiar with different testing
-                    libraries like JUnit, React Testing Library, Mocha or Jest.
+                    My foundation in programming languages such as Java, JavaScript, and others has allowed me to learn
+                    new languages and techniques quickly. I am a problem solver who enjoys tackling coding
+                    challenges on sites like HackerRank and LeetCode. Additionally, I am proficient in various software
+                    development tools and frameworks, including Git, Java, React and Python.
                 </p>
 
                 <br />

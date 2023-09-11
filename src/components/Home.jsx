@@ -16,10 +16,10 @@ const Home = () => {
                     </h2>
                     <p className="text-gray-500 py-4 max-w-md">
 
-                        I am a third-year student of Computer Science, and I'm currently studying Computer Science at
-                        the University of London, Goldsmiths. I am proficient in many languages written in the
-                        experience section and with source control. I am familiar with testing libraries like JUnit,
-                        React Testing Library, Mocha or Jest.
+                        I am recent graduate of Computer Science from Goldsmiths University of London.
+                        I am proficient in many languages written in the experience section like Java, React and Python
+                        and with version control too.
+                        I am also familiar with testing libraries like JUnit, React Testing Library, Mocha or Jest.
 
                         I'm looking to further my software engineering career and keep learning more about this field.
                         I'm always looking to work on new projects with developers, so if you have an idea and are

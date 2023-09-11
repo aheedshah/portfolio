@@ -4,7 +4,7 @@ import bankingApp from "../assets/portfolio/bankingApp.jpg";
 import sudokuSolver from "../assets/portfolio/sudokuSolver.jpg";
 import wordle from "../assets/portfolio/wordle.jpg";
 import ecommerceApp from "../assets/portfolio/ecommerce.jpg";
-import comingSoon from "../assets/portfolio/comingSoon.jpg";
+import jobCrop from "../assets/portfolio/jobCrop.png";
 
 const Portfolio = () => {
     const portfolios = [
@@ -24,13 +24,13 @@ const Portfolio = () => {
             id: 3,
             src: sudokuSolver,
             name: "Sudoku Solver",
-            code: "https://www.github.com/aheedshah/sudokuSolver"
+            code: "https://github.com/aheedshah/University/tree/main/sudokuSolver"
         },
         {
             id: 4,
             src: wordle,
             name: "Wordle",
-            code: "https://www.github.com/aheedshah/Wordle"
+            code: "https://github.com/aheedshah/University/tree/main/Wordle%20"
         },
         {
             id: 5,
@@ -40,9 +40,9 @@ const Portfolio = () => {
         },
         {
             id: 6,
-            src: comingSoon,
+            src: jobCrop,
             name: "Job Crop",
-            code: "#"
+            code: "https://www.github.com/aheedshah/job-crop"
         },
     ];
 
