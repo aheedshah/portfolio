@@ -1,3 +1,14 @@
+# Project
+
+This project is now hosted on AWS and can be accessed via the link: [aheedshah.xyz](aheedshah.xyz).
+
+Points to remember:
+
+To update the website locally after making changes, 
+run the command: `npm run build` and then run `npm run sync`
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
