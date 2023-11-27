@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c7fd3470-65a7-4324-939b-e71d5d896057" name="Changes" comment="Some updates to the website">
-      <change afterPath="$PROJECT_DIR$/src/assets/portfolio/toddlerworld.png" afterDir="false" />
+    <list default="true" id="c7fd3470-65a7-4324-939b-e71d5d896057" name="Changes" comment="Updates">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Portfolio.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Portfolio.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,10 +18,10 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2Hv3awdR1EBuG3LSRkpyAwRfuxt" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -55,9 +53,9 @@
       <recent name="$PROJECT_DIR$/public" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public" />
       <recent name="$PROJECT_DIR$/src/assets/portfolio" />
       <recent name="$PROJECT_DIR$/src/assets" />
-      <recent name="$PROJECT_DIR$/public" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -84,7 +82,9 @@
       <workItem from="1672403727091" duration="4000" />
       <workItem from="1694451459611" duration="3213000" />
       <workItem from="1694628861376" duration="214000" />
-      <workItem from="1701083957871" duration="123000" />
+      <workItem from="1701083957871" duration="428000" />
+      <workItem from="1701084566976" duration="994000" />
+      <workItem from="1701101549903" duration="916000" />
     </task>
     <task id="LOCAL-00001" summary="Final changes">
       <created>1669239249557</created>
@@ -100,7 +100,15 @@
       <option name="project" value="LOCAL" />
       <updated>1672403583834</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Updates">
+      <option name="closed" value="true" />
+      <created>1701084312054</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1701084312054</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,7 +128,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Final changes" />
     <MESSAGE value="Some updates to the website" />
-    <option name="LAST_COMMIT_MESSAGE" value="Some updates to the website" />
+    <MESSAGE value="Updates" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updates" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
