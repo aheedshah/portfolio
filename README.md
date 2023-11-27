@@ -1,6 +1,6 @@
 # Project
 
-This project is now hosted on AWS and can be accessed via the link: [aheedshah.xyz](aheedshah.xyz).
+This project is now hosted on AWS and can be accessed via the link: [www.aheedshah.xyz](https://www.aheedshah.xyz).
 
 Points to remember:
 
