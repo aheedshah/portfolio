@@ -1,5 +1,5 @@
 import React from "react";
-import monstersRolodex from "../assets/portfolio/monstersRolodex.jpg";
+import toddlerWorld from "../assets/portfolio/toddlerworld.png";
 import bankingApp from "../assets/portfolio/bankingApp.jpg";
 import sudokuSolver from "../assets/portfolio/sudokuSolver.jpg";
 import wordle from "../assets/portfolio/wordle.jpg";
@@ -10,9 +10,9 @@ const Portfolio = () => {
     const portfolios = [
         {
             id: 1,
-            src: monstersRolodex,
-            name: "Monsters Rolodex",
-            code: "https://www.github.com/aheedshah/monsters-rolodex"
+            src: toddlerWorld,
+            name: "Toddler World",
+            code: "https://www.github.com/aheedshah/toddler-world"
         },
         {
             id: 2,
