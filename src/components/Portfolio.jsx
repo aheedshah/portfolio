@@ -12,37 +12,44 @@ const Portfolio = () => {
             id: 1,
             src: toddlerWorld,
             name: "Toddler World",
-            code: "https://www.github.com/aheedshah/toddler-world"
+            code: "https://www.github.com/aheedshah/toddler-world",
+            link: "https://www.toddlerworld.in",
+            alt: "Toddler World Web App"
         },
         {
             id: 2,
             src: bankingApp,
             name: "Banking App",
-            code: "https://www.github.com/aheedshah/bankingApp"
+            code: "https://www.github.com/aheedshah/bankingApp",
+            alt: "Banking App"
         },
         {
             id: 3,
             src: sudokuSolver,
             name: "Sudoku Solver",
-            code: "https://github.com/aheedshah/University/tree/main/sudokuSolver"
+            code: "https://github.com/aheedshah/University/tree/main/sudokuSolver",
+            alt: "Sudoku Solver"
         },
         {
             id: 4,
             src: wordle,
             name: "Wordle",
-            code: "https://github.com/aheedshah/University/tree/main/Wordle%20"
+            code: "https://github.com/aheedshah/University/tree/main/Wordle%20",
+            alt: "Wordle Clone"
         },
         {
             id: 5,
             src: ecommerceApp,
             name: "Ecommerce App",
-            code: "https://www.github.com/aheedshah/ecommerce-app"
+            code: "https://www.github.com/aheedshah/ecommerce-app",
+            alt: "Ecommerce App"
         },
         {
             id: 6,
             src: jobCrop,
             name: "Job Crop",
-            code: "https://www.github.com/aheedshah/job-crop"
+            code: "https://www.github.com/aheedshah/job-crop",
+            alt: "Job Crop - A job finding app for techies"
         },
     ];
 
@@ -60,13 +67,15 @@ const Portfolio = () => {
                 </div>
 
                 <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-8 px-12 sm:px-0">
-                    {portfolios.map(({ id, src, name, code }) => (
+                    {portfolios.map(({ id, src, name, code, link, alt }) => (
                         <div key={id} className="shadow-md shadow-gray-600 rounded-lg">
-                            <img
-                                src={src}
-                                alt=""
-                                className="rounded-md duration-200 hover:scale-105"
-                            />
+                            <a href={link}>
+                                <img
+                                    src={src}
+                                    alt={alt}
+                                    className="rounded-md duration-200 hover:scale-105"
+                                />
+                            </a>
                             <div className="flex items-center justify-center">
                                 <div className="w-1/2 px-6 py-3 m-4 duration-200">
                                     <p>{name}</p>
