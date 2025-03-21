@@ -1,7 +1,7 @@
 import React from "react";
 import Memoji from "../assets/memoji.png";
-import { MdOutlineKeyboardArrowRight } from "react-icons/md";
-import { Link } from "react-scroll";
+import {MdOutlineKeyboardArrowRight} from "react-icons/md";
+import {Link} from "react-scroll";
 
 const Home = () => {
     return (
@@ -12,13 +12,15 @@ const Home = () => {
             <div className="max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-4 md:flex-row">
                 <div className="flex flex-col justify-center h-full">
                     <h2 className="text-4xl sm:text-7xl font-bold text-white">
-                        I'm a student and a Software Engineer
+                        I'm a Software Engineer
                     </h2>
                     <p className="text-gray-500 py-4 max-w-md">
-                        I am recent graduate of Computer Science from Goldsmiths University of London.
-                        I am proficient in many languages written in the experience section like Java, React and Python
-                        and with version control too.
-                        I am also familiar with testing libraries like JUnit, React Testing Library, Mocha or Jest.
+                        With two years of hands-on experience, I'm currently working as a Back End Engineer at
+                        Collectiv Food. I have experience in many languages and tools like .Net, Java, React, Python and
+                        AWS Cloud Services. I have worked with databases like PostgreSQL, MySQL and MongoDB and many
+                        more.
+                        These are written in the experience section below. I am also familiar with testing libraries
+                        like XUnit, JUnit, React Testing Library, Mocha, Jest and others.
 
                         I'm looking to further my software engineering career and keep learning more about this field.
                         I'm always looking to work on new projects, so if you have an idea and are
@@ -34,7 +36,7 @@ const Home = () => {
                         >
                             Portfolio
                             <span className="group-hover:rotate-90 duration-300">
-                                <MdOutlineKeyboardArrowRight size={25} className="ml-1" />
+                                <MdOutlineKeyboardArrowRight size={25} className="ml-1"/>
                             </span>
                         </Link>
                     </div>

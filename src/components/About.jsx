@@ -14,18 +14,18 @@ const About = () => {
                 </div>
 
                 <p className="text-xl mt-20">
-                    My foundation in programming languages such as Java, JavaScript, and others has allowed me to learn
+                    My foundation in programming languages such as Java, JavaScript and others have allowed me to learn
                     new languages and techniques quickly. I am a problem solver who enjoys tackling coding
                     challenges on sites like HackerRank and LeetCode. Additionally, I am proficient in various software
                     development tools and frameworks, including Git, Java, React and Python.
                 </p>
 
-                <br />
+                <br/>
 
                 <p className="text-xl">
-                    I'm looking to further my career as a Software Engineer and keep on learning more about this field.
-                    I'm always looking to work on new projects with developers so if you have an idea and are looking for
-                    an extra pair of hands, don't hesitate to reach out!
+                    As I advance my career in software engineering, I remain committed to learning and growing in this
+                    ever-evolving field. If you’re looking to collaborate on a project or need an extra pair of hands,
+                    don’t hesitate to reach out.
                 </p>
             </div>
         </div>
